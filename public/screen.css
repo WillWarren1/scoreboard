@@ -38,3 +38,21 @@ h1 {
 .update-score section {
 	margin: 1rem;
 }
+
+.reset {
+	margin-left: 45%;
+}
+
+.popup {
+	display: none;
+}
+
+.winner {
+	color: white;
+	text-align: center;
+	border: solid black;
+	font-size: 6rem;
+	margin: 2rem;
+	padding: 2rem;
+	background-color: purple;
+}
